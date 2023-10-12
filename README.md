@@ -13,6 +13,9 @@ This project holds significant importance in the realm of data science and consu
 ## Data Source 
 
 ## Part 1: Analysis of Notes in Popular Fragrances and Survey Respondent's Note Preferences 
+Fragrance Counts per brand <br> 
+![image](https://github.com/nisha-kaushal/Fragrance_Analysis_and_Recommendations/assets/100887571/d6236c10-5800-40d3-a1fb-4837d92a24c2)
+
 
 ### Notes in Fragrances 
 
