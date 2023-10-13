@@ -32,9 +32,6 @@ Now that I am on the topic of the fragrance notes, I want to look into what frag
 Top 50 notes used in Fragrances <br> 
 ![image](https://github.com/nisha-kaushal/Fragrance_Analysis_and_Recommendations/assets/100887571/a446a94e-b78f-4887-805f-9af029eb5894)
 
-Most Used Notes in Fragrances vs Preferred Notes by Survey Respondents
-![image](https://github.com/nisha-kaushal/Fragrance_Analysis_and_Recommendations/assets/100887571/f08f091d-4572-4845-b89b-14ed5d3da72f)
-
 
 ### Survey
 Most Used Notes in Fragrances vs Preferred Notes by Survey Respondents
