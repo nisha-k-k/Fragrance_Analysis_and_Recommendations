@@ -18,14 +18,17 @@ For Part 2, the goal is to create a recommender system that can recommend 5 frag
 * Survey Data Conducted through Google Forms. The survey is still available to contribute to future updates, and can be found [here](https://docs.google.com/forms/d/e/1FAIpQLScGjr5oM_CzUVDHIQ3sr-TISh51U84lXy1rsC9utzrQgFmzBg/viewform)
 
 ## Part 1: Analysis of Notes in Popular Fragrances and Survey Respondent's Note Preferences 
-Fragrance Counts per brand <br> 
+
+One of the first parts of the data that I am interested in is the density of different brands in the data, ie, the amount of fragrances per brand. Using Atair, I created a bar graph to show the top 40 brnads represented in the data, based on how many of their fragrances are in the dataset. <br>
 ![image](https://github.com/nisha-kaushal/Fragrance_Analysis_and_Recommendations/assets/100887571/d6236c10-5800-40d3-a1fb-4837d92a24c2)
 
-Cosine similarities between original notes and extracted notes <br>
-![image](https://github.com/nisha-kaushal/Fragrance_Analysis_and_Recommendations/assets/100887571/75ebdd05-e611-437d-8bed-3c94ab5ebae9)
+Once I found the top brands, I became interested in the way brands represent their fragrances' smells in the product descriptions vs. what the official listed notes are. The data included the official listed notes, and I extracted the notes that are mentioned in the product descriptions. Using these two separate lists for each fragrance, I found the cosine similarities. Below are the distributions of cosine similarities: <br>
+![image](https://github.com/nisha-kaushal/Fragrance_Analysis_and_Recommendations/assets/100887571/75ebdd05-e611-437d-8bed-3c94ab5ebae9) <br> 
+It seems that, while there are similarities between the original (/"official") notes and the product description-extracted notes, not many fragrances have them exactly matching (cosine = 1.0). From this, I gather that this means that the descriptions may be focusing on a few notes or fragrance categories rather than all of the notes that are in the fragrance. 
+
 
 ### Notes in Fragrances 
-
+Now that I am on the topic of the fragrance notes, I want to look into what fragrance notes are the most prominent across the fragrances in the dataset. <br>
 Top 50 notes used in Fragrances <br> 
 ![image](https://github.com/nisha-kaushal/Fragrance_Analysis_and_Recommendations/assets/100887571/a446a94e-b78f-4887-805f-9af029eb5894)
 
