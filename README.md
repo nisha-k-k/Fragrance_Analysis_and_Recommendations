@@ -17,6 +17,16 @@ For Part 2, the goal is to create a recommender system that can recommend 5 frag
   * Because there were not many data entries in the dataset, I attempted to webscrape the data from the popular online fragrance database, Fragrantica. However, Fragrantica has limitations in the amount of times one can gather data from the website, so I had to result to hard-coding many of the data points. <br>
 * Survey Data Conducted through Google Forms. The survey is still available to contribute to future updates, and can be found [here](https://docs.google.com/forms/d/e/1FAIpQLScGjr5oM_CzUVDHIQ3sr-TISh51U84lXy1rsC9utzrQgFmzBg/viewform)
 
+## Skills Used
+* Python Programming
+* Exploratory Data Analysis
+* Natural Language Processing (NLP)
+* Cosine Similarity
+* Recommendation System
+* Data Visualization
+* Web Scraping
+* Survey Analysis
+
 ## Part 1: Analysis of Notes in Popular Fragrances and Survey Respondent's Note Preferences 
 
 One of the first parts of the data that I am interested in is the density of different brands in the data, ie, the amount of fragrances per brand. Using Atair, I created a bar graph to show the top 40 brnads represented in the data, based on how many of their fragrances are in the dataset. <br>
