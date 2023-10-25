@@ -63,3 +63,8 @@ While brands have to consider consumers' preferences, they also have to consider
 While brands should take into consideration the responses to surveys similar to the one I have given, I do not think they should make it a case to cater towards just the popular scent notes. The uniqueness of different fragrances comes from the combination of scents, including the addition of a scent that may not be well known or popular. 
 
 ## Part 2: Fragrance Recommendation System 
+
+## Future Updates
+The main update currently in the works is a web app for the recommendation system, so that users can easily use it instead of having to use a Jupyter Notebook. 
+
+More updates to the analysis will be done as the survey receives more responses. 
