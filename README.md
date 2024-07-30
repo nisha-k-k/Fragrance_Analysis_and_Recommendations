@@ -1,4 +1,8 @@
 # Fragrance Analysis and Recommendations
+
+### Update 1/3/2024: Streamlit App is Now Available! 
+App link: [fragrance-recs.streamlit.app/](fragrance-recs.streamlit.app/) <br> 
+Github Repo: [https://github.com/nisha-k-k/fragrance_recs_streamlit](https://github.com/nisha-k-k/fragrance_recs_streamlit)
 ### Update 11/25/2023: Web App Coming Soon! 
 ## NOTE: 
 IF NOTEBOOKS' PREVIEWS IN GITHUB NOT RENDERING, PLEASE SEE LINKS BELOW FOR HTML RENDERINGS: <br> 
